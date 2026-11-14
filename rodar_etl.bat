@@ -1,0 +1,1 @@
+"C:\Users\User\AppData\Local\Microsoft\WindowsApps\python.exe" etl_clima.py
